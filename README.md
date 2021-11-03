@@ -9,4 +9,4 @@
     <li>Sequelize</li>
 </ul>
 
-<h2>This project was made as a scheduling application for study purposes, linking the app with the database</h2>
+<h2>This project was made as a scheduling application for study purposes, linking the app with the database.</h2>
